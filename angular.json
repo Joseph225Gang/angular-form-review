@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-feature-test"
+  "defaultProject": "angular-feature-test",
+  "cli": {
+    "analytics": "952c9176-fca3-432b-842c-eff530d6fb5b"
+  }
 }
